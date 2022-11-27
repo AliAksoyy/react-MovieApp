@@ -12,7 +12,7 @@ const Main = () => {
   const getMovies = async (url)=>{      
       try {
         const {data:{results}} = await axios(url)
-        if(results.length == 0){
+        if(results.length === 0){
           alert("Check movie search name!!");
           setSearch("");
         }else{
