@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import {useParams, NavLink} from "react-router-dom";
 
 const MovieDetail = () => {
-  const API_KEY = process.env.REACT_APP_API_KEY; 
+  const API_KEY = "f9d519cf637913b53609ad35ac541965"; 
   const {id} = useParams();
 
   
