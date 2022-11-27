@@ -4,7 +4,7 @@ import MovieCard from "../components/MovieCard";
 
 
 const Main = () => {
-  const API_KEY = process.env.REACT_APP_API_KEY;
+  const API_KEY = "f9d519cf637913b53609ad35ac541965";
 
   const [movies, setMovies] = useState([])
   const [search, setSearch] = useState("")
