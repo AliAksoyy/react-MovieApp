@@ -14,7 +14,7 @@
 
 <hr>
 
-[📍You can see the live site from here!](https://reactmovieapp-five.vercel.app/)
+[📍You can see the live site from here!]()
 
 <!-- ------------------------------------------------------ -->
 ````
@@ -88,7 +88,7 @@ SOLUTION
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/React-MovieApp'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://github.com/AliAksoyy/react-MovieApp'>My Docs</a>
 <br><span>You should open vscode terminal and write "yarn or npm install" to make the project alive </span>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
@@ -136,8 +136,8 @@ Feel free to check [issues page](https://github.com/kefranabg/readme-md-generato
 <!-- ------------------------------------------------------------------------------------- -->
 ## Author
 
-👤 **Yasin Sutoglu**
+👤 **Ali Aksoy**
 
-- Twitter: [@YsnStgl](https://twitter.com/YsnStgl)
-- Github: [@yasinsutoglu](https://github.com/yasinsutoglu)
+- Twitter: [@alifeyza4017](https://twitter.com/alifeyza4017)
+- Github: [@AliAksoyy](https://github.com/AliAksoyy)
 
