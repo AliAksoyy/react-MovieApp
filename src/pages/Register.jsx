@@ -48,7 +48,7 @@ export default function Register() {
       <Grid
         container
         component="main"
-        sx={{ height: "89.8vh", marginTop: "4rem" }}
+        sx={{ height: "89.8vh", marginTop: "4rem", }}
       >
         <CssBaseline />
         <Grid
@@ -85,6 +85,7 @@ export default function Register() {
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
+              
             }}
           >
             <Avatar sx={{ m: 1, bgcolor: "primary.main"}}>
